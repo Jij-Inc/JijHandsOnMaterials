@@ -152,3 +152,5 @@ cython_debug/
 #.idea/
 
 .jb_results/
+
+config.toml
