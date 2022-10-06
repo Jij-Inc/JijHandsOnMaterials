@@ -154,3 +154,4 @@ cython_debug/
 #.idea/
 
 .jb_results/
+.DS_Store
